@@ -1,3 +1,5 @@
+package com.iba.edu;
+
 public class Cloudant_test {
 
     public static  void main(String[] args)
